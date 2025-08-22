@@ -5,5 +5,14 @@ Esse repositório mostra alguns exemplos de testes na plataforma. Os procediment
 
 ## Passo 1 - Criação de um recurso de linguagem no portal da Azure
 
-1) cria-se a conta no Azure
-2)  
+1) Crie a conta no Azure. Pode-se usar a conta Microsoft
+2) Em seguida crie um recurso acessando o site https://portal.azure.com:
+  <img width="1293" height="590" alt="image" src="https://github.com/user-attachments/assets/4da12657-f40d-45e4-9c26-b0f6800f0f21" />
+  <br>
+  
+3) Clique em **IA + Machine Learning** e em seguida **Serviço de Linguagem**:
+<img width="1298" height="595" alt="azure 2" src="https://github.com/user-attachments/assets/611cb367-84fb-4a6b-9d40-6a1e9b499a5f" />
+<br>
+
+4) Caso não queria adicionar outras features, clique em **Continue to create your resource**:
+<img width="1298" height="595" alt="azure 3" src="https://github.com/user-attachments/assets/6366368a-55b9-45ce-bd35-fb5a1f9db43b" />
