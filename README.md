@@ -90,12 +90,12 @@ Abaixo podemos ver o resultado da análise de sentimento de uma opinião negativ
 Fiz a devolução do produto para troca do número, fazem 20 dias, envio email e ninguem atende ou resolve a questão, um absurdo!!!
 ```
 
-Aqui temos uma opinião totalmente negativa, em que a cliente se mostra insatisfeita com o serviço de devolução. A ferramenta Azure conseguiu indentificar o sentimento de negatividade.
+Aqui temos uma opinião totalmente negativa, em que a cliente se mostra insatisfeita com o serviço de devolução. A ferramenta Azure conseguiu identificar o sentimento de insatifação.
 
 <img width="796" height="378" alt="azure 17" src="https://github.com/user-attachments/assets/7c355e7f-7883-4bf4-b5eb-0f16c04a72f4" />
 
 ## Conclusão
-De uma maneira geral, o Language Studio do Azure demonstrou ser uma ferramenta útil para verificar o feedback de usuários relacionado a determinado produto ou serviço. Porém alguns textos ou expressões de linguagem o Language Studio ainda não consegue interpretar corretamente, a exemplo de "olhos fechados". Para a automação o Azure Ai é uma ferrmenta muito poderosa, porém o fator humano é ainda indispensável para análise e tomada de decisões.
+De uma maneira geral, o Language Studio do Azure demonstrou ser uma ferramenta útil para verificar o feedback de usuários relacionado a determinado produto ou serviço. Porém alguns textos ou expressões de linguagem o Language Studio ainda não consegue interpretar corretamente, a exemplo de "olhos fechados". Para a automação o Azure Ai é uma ferramenta muito poderosa, porém o fator humano é ainda indispensável para análise e tomada de decisões.
 
 ## 👩‍💻 Autor(a)
 
