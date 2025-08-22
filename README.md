@@ -5,7 +5,7 @@ Esse repositório mostra alguns exemplos de testes na plataforma. Os procediment
 
 ## Passo 1 - Criação de um recurso de linguagem no portal da Azure
 
-1. Crie a conta no Azure. Pode-se usar a conta Microsoft
+1. Crie a conta no Azure. Pode-se usar a conta Microsoft.
 2. Em seguida crie um recurso acessando o site https://portal.azure.com:
   <img width="1293" height="590" alt="image" src="https://github.com/user-attachments/assets/4da12657-f40d-45e4-9c26-b0f6800f0f21" />
 3. Clique em **IA + Machine Learning** e em seguida **Serviço de Linguagem** :
@@ -22,3 +22,12 @@ Esse repositório mostra alguns exemplos de testes na plataforma. Os procediment
 <img width="1298" height="595" alt="azure 8" src="https://github.com/user-attachments/assets/cfa5428c-8bda-4f05-b6bc-8a1d14e5803f" />
 
 ## Passo 2 - Análise de Sentimentos
+
+1. Acesse https://language.cognitive.azure.com/ e entre com sua conta Microsoft.
+2. Ao logar, selecione o recurso Azure recém criado:
+<img width="1298" height="595" alt="azure 9" src="https://github.com/user-attachments/assets/46c75313-76e1-467a-a781-643d821605a4" />
+3. Na tela inicial, selecione **Classify text** e depois em **Analyse Sentime and mine opinions**
+<img width="1298" height="595" alt="azure 10" src="https://github.com/user-attachments/assets/8220d40a-9cdf-4354-bf9e-dd6f2b8728ad" />
+<img width="1298" height="595" alt="azure 11" src="https://github.com/user-attachments/assets/ffc49342-84ee-469d-a781-13d6f4290a39" />
+
+
