@@ -51,3 +51,11 @@ Agora ao analisar ```É um produto que eu compro e indico de olhos fechados.```,
 
 Finalizando, a frase final foi classificada como positiva, em que a cliente espera que a marca continue entregando produtos de qualidade.
 <img width="740" height="327" alt="azure 16" src="https://github.com/user-attachments/assets/7f249f0f-daf8-4aa5-973d-91a4d5a41935" />
+
+
+### Opinião 2
+Abaixo podemos ver o resultado da análise de sentimento de uma opinião negativa.
+<br>
+```Fiz a devolução do produto para troca do número, fazem 20 dias, envio email e ninguem atende ou resolve a questão, um absurdo!!!```
+Aqui temos uma opinião totalmente negativa, em que a cliente se mostra insatisfeita com o serviço de devolução. A ferramenta Azure conseguiu indentificar o sentimento de negatividade.
+<img width="796" height="378" alt="azure 17" src="https://github.com/user-attachments/assets/7c355e7f-7883-4bf4-b5eb-0f16c04a72f4" />
