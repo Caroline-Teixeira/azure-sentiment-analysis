@@ -29,5 +29,25 @@ Esse repositório mostra alguns exemplos de testes na plataforma. Os procediment
 3. Na tela inicial, selecione **Classify text** e depois em **Analyse Sentime and mine opinions**
 <img width="1298" height="595" alt="azure 10" src="https://github.com/user-attachments/assets/8220d40a-9cdf-4354-bf9e-dd6f2b8728ad" />
 <img width="1298" height="595" alt="azure 11" src="https://github.com/user-attachments/assets/ffc49342-84ee-469d-a781-13d6f4290a39" />
+4. Selecione o idioma e insira o texto a ser analisado.
+<img width="1298" height="595" alt="azure 12" src="https://github.com/user-attachments/assets/fe7edba5-66e6-4c73-bb4a-5b3fd7b5745e" />
 
+## Resultados
 
+Foram analisados duas opiniões diferentes sobre o mesmo produto / serviço. Disponível em: https://www.zattini.com.br/p/scarpin-vizzano-salto-medio-bico-fino-E11-7358-006
+
+### Opinião 1
+Abaixo podemos ver o resultado da análise de sentimento de uma opinião positiva.
+<br>
+```Amo a marca Vizzano. É um produto que eu compro e indico de olhos fechados. Espero que continue assim, para não decepcionar o cliente que que confia e compra os calçados Vizzano.```
+
+Ao analisar ```Amo a marca Vizzano```, o resultado é positivo (100%), em que o cliente mostra satisfação em relação ao produto.
+
+<img width="489" height="332" alt="azure 13" src="https://github.com/user-attachments/assets/c5b06889-d640-4095-b65d-877a272fb860" /><img width="489" height="332" alt="azure 14" src="https://github.com/user-attachments/assets/83953315-4fa0-4dd0-8712-1312e42eeb3f" />
+
+Agora ao analisar ```É um produto que eu compro e indico de olhos fechados.```, obtemos um comportamento interessante: de acordo com a ferramenta o sentimento é majoritariamente neutro (96%), sendo que deveria ser considerado majoritariamente positiva, já que a cliente confia bastante na marca para comprar "de olhos fechados".
+<br>
+<img width="489" height="332" alt="azure 15" src="https://github.com/user-attachments/assets/93de4769-f3e2-4645-baef-6f74a20a868a" />
+
+Finalizando, a frase final foi classificada como positiva, em que a cliente espera que a marca continue entregando produtos de qualidade.
+<img width="740" height="327" alt="azure 16" src="https://github.com/user-attachments/assets/7f249f0f-daf8-4aa5-973d-91a4d5a41935" />
