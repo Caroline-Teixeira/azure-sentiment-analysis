@@ -1,0 +1,31 @@
+{
+    "documents": [
+        {
+            "id": "id__1217",
+            "sentiment": "negative",
+            "confidenceScores": {
+                "positive": 0,
+                "neutral": 0,
+                "negative": 1
+            },
+            "sentences": [
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 0,
+                    "length": 128,
+                    "text": "Fiz a devolução do produto para troca do número, fazem 20 dias, envio email e ninguem atende ou resolve a questão, um absurdo!!!",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2025-01-01"
+}
